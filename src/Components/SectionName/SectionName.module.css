@@ -1,0 +1,11 @@
+.section {
+    display: flex;
+    align-items: center;
+    color: #DB4444;
+    margin: 98px 0 0
+}
+
+.textSectionName {
+    font-size: 16px;
+    margin-left: 16px;
+}

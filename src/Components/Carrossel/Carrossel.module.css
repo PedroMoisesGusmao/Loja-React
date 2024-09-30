@@ -1,0 +1,15 @@
+.card {
+    display: flex;
+    background-color: #F5F5F5;
+    width: 270px;
+    height: 250px;    
+}
+
+.titleCarrossel {
+    display: flex;
+    margin: 24px 0
+}
+
+.contagemRegressiva {
+    margin-left: 87px;
+}

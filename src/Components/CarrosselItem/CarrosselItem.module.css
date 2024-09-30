@@ -1,0 +1,13 @@
+.carrossel_item {
+    background: #F5F5F5;
+
+}
+
+.carrossel_images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
